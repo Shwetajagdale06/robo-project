@@ -278,3 +278,15 @@ email
 2)Renuka==renukagaidhane24@gmail.com
 3)shweta a==aiwaleshweta7020@gmail.com
 4)shweta j== s.jagdale0604@gmail.com
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+vpc=
+ipv4=172.18.0.0/16
+ipv6=172.18.10.0/24
+
+
+1)vpc
+2)subnet=public,private
+3)internet gatway
+4)subnet=action-enable auto-assign-save
+5)root table=edit subnet associtation,add root
